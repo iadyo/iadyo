@@ -10,4 +10,10 @@
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ebb13d?style=flat-square&logo=mysql&logoColor=white" />
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /><br>
   <hr>
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=adjoon&show_icons=true&hide_border=true&theme=dark&count_private=true">
+  </div>
+  <div align="right>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjoon&hide_border=true&theme=dark">
+  </div>
 </div>
