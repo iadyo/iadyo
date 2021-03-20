@@ -1,4 +1,5 @@
 <div align="center">
+  <hr>
   <strong>Hello, I'm Adrian 👋</strong><br>
   I'm an ordinary Java & JavaScript developer from Poland<br>
   If you want to contact me send an e-mail to: <code>iamadyoo@gmail.com</code>
@@ -11,4 +12,5 @@
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /><br>
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=adjoon&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
+  <hr>
 </div>
