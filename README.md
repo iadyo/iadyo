@@ -11,5 +11,6 @@
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /><br>
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=adjoon&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjoon&hide_border=true&theme=material-palenight">
   <hr>
 </div>
