@@ -1,5 +1,4 @@
 <div align="center">
-  <hr>
   <strong>Hello, I'm Adrian 👋</strong><br>
   I'm an ordinary Java & JavaScript developer from Poland<br>
   If you want to contact me send an e-mail to: <code>iamadyoo@gmail.com</code>
