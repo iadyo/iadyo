@@ -1,5 +1,10 @@
 {
   "name": "Adrian",
   "website": "https://impostors.ga",
-  "discord": "adyo#3031"
+  "discord": "adyo#3031",
+  
+  "cooperates_with": {
+    "genesis": "gaming brand",
+    "blurmc": "minecraft server"
+  }
 }
