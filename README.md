@@ -13,7 +13,7 @@
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=adjoon&show_icons=true&hide_border=true&theme=dark&count_private=true">
   </div>
-  <div align="right>
+  <div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjoon&hide_border=true&theme=dark">
   </div>
 </div>
