@@ -1,6 +1,6 @@
 <div align="center">
   <strong>Hello, I'm Adrian 👋</strong><br>
-  I'm an ordinary Java & JavaScript developer from Poland<br>
+  I'm an ordinary Java, JavaScript & Python developer from Poland<br>
   If you want to contact me send an e-mail to: <code>iamadyoo@gmail.com</code>
   <hr>
   ┍ I use the things listed below ┑<br>
