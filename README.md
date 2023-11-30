@@ -22,7 +22,16 @@
     <li>Scikit-Learn (Machine Learning library)</li>
     <li>OpenCV (Computer Vision library)</li>
     <li>Flask (Web framework for Python)</li>
-  </ul>
+    <li>Data Visualization:
+        <ul>
+            <li>Matplotlib</li>
+            <li>Seaborn</li>
+            <li>Plotly</li>
+            <li>Folium</li>
+        </ul>
+    </li>
+</ul>
+
 
   <h2>🌱 I’m currently learning:</h2>
   <p>Natural Language Processing (NLP)</p>
