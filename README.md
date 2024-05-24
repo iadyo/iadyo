@@ -39,15 +39,14 @@
   <h2>🎯 Future Plans:</h2>
   <ul>
     <li>Expand my knowledge in signal processing (e.g., audio processing)</li>
-    <li>FastAPI</li>
-    <li>Big Data</li>
+    <li>BCI (Brain Computer Interface)</li>
   </ul>
 
   <h2>🔍 Focus:</h2>
   <ul>
     <li>Data Analysis</li>
     <li>Artificial Intelligence</li>
-    <li>Math or Physics Programs</li>
+    <li>Science Programs</li>
   </ul>
 </div>
 
