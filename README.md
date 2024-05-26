@@ -57,4 +57,6 @@
 <div style="margin: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=iadyo&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadyo&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-contributor-stats.vercel.app/api?username=iadyo&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Repositories">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iadyo&theme=omni&hide_border=false">
 </div>
