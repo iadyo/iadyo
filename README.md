@@ -50,13 +50,12 @@
   </ul>
 </div>
 
-<div style="text-align: center; margin: 20px;">
-  <h2>Let's connect and collaborate on exciting projects! 🚀</h2>
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=iadyo&show_icons=true&theme=radical" alt="GitHub Stats"></p>
+  <p><img src="https://github-contributor-stats.vercel.app/api?username=iadyo&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Contributor Stats"></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iadyo&theme=omni&hide_border=false" alt="Streak Stats"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadyo&layout=compact&theme=radical" alt="Top Languages"></p>
 </div>
 
-<div style="margin: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iadyo&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadyo&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://github-contributor-stats.vercel.app/api?username=iadyo&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Repositories">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iadyo&theme=omni&hide_border=false">
-</div>
+
+
