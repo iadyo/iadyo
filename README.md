@@ -39,6 +39,8 @@ I’m familiar with modern development workflows and collaborative practices, in
 - **Agile methodologies** — particularly Scrum and Kanban
 - **Version control** and branching strategies using Git
 - **GitHub Workflows** for continuous integration and automation
+- Currently learning **Terraform** — diving into Infrastructure as Code (IaC), automating cloud resources, and managing scalable, repeatable deployments.
+
 
 ---
 
