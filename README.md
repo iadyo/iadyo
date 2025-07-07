@@ -21,7 +21,7 @@
 
 ## ⚙️ Tech Stack
 
-| Languages              | Tools & Frameworks             | ☁Cloud Platforms                     | Databases                          |
+| Languages              | Tools & Frameworks             | Cloud Platforms                     | Databases                          |
 |--------------------------|---------------------------------|-------------------------------------|-------------------------------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)           | ![AWS](https://img.shields.io/badge/Amazon_Web_Services_(AWS)-232F3E?style=flat&logo=amazon-web-services&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)           |
 | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)              | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)       | ![GCP](https://img.shields.io/badge/Google_Cloud_Platform_(GCP)-4285F4?style=flat&logo=google-cloud&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)      |
