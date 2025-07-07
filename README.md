@@ -32,6 +32,16 @@
 
 ---
 
+## 🧭 Workflow & Methodologies
+
+I’m familiar with modern development workflows and collaborative practices, including:
+
+- **Agile methodologies** — particularly Scrum and Kanban
+- **Version control** and branching strategies using Git
+- **GitHub Workflows** for continuous integration and automation
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
